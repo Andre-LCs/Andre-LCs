@@ -11,6 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dilucas_7/)
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=Andr3-dev&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr3-dev&layout=compact&theme=tokyonight)](https://github.com/Andr3-dev)
 
 ## Tecnologias que eu uso no meu dia
 
