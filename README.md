@@ -4,6 +4,12 @@
   Técnico em Rede | Explorador de infra 🔧 | Linux na veia 🐧
 </p>
 
+## 🧠 Sobre Mim
+
+Comecei na programação alterando os arquivos dos jogos que eu gostava e criando mods. Isso despertou meu interesse por tecnologia e, em seguida, comecei a estudar lógica de programação, HTML, CSS, e um tempo depois javascript. Comecei a estudar pelo YouTube, mas logo fiz uns cursinhos melhores e aprendi muito. 
+
+Atualmente, curso Eng. de Software e redirecionei meu foco para redes, infraestrutura, Desenvolvimento de software e segurança de sistemas operacionais. Tenho explorado desde a configuração de ambientes Linux até práticas de cibersegurança, aprofundando meus conhecimentos em ferramentas como Ubuntu e Java, além de estudar conceitos de DevOps, virtualização e monitoramento de redes.
+
 ## 🔗 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucas-70a440276)
@@ -24,8 +30,3 @@
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-## 🧠 Sobre Mim
-
-Meu nome é André Lucas Aquino Carneiro e Silva, tenho 19 anos. Comecei na programação alterando os arquivos dos jogos que eu gostava e criando mods. Isso despertou meu interesse por tecnologia e, em seguida, comecei a estudar lógica de programação, HTML, CSS, e um tempo depois javascri. Comecei a estudar pelo YouTube, mas logo fiz uns cursinhos melhores e aprendi muito. 
-
-Atualmente, curso Eng. de Software e redirecionei meu foco para redes, infraestrutura e segurança de sistemas operacionais. Tenho explorado desde a configuração de ambientes Linux até práticas de cibersegurança, aprofundando meus conhecimentos em ferramentas como Ubuntu e Java, além de estudar conceitos de DevOps, virtualização e monitoramento de redes.
