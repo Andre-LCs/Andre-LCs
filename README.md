@@ -14,7 +14,7 @@ Atualmente, curso Eng. de Software e redirecionei meu foco para redes, infraestr
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dilucas_7/)
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-LCs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-LCs&layout=compact&theme=tokyonight)](https://github.com/Andre-LCs)
+
 
 ## Tecnologias que eu uso no meu dia
 
