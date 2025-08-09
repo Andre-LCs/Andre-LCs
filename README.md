@@ -1,7 +1,7 @@
 <h1 align="center">André Lucas 👋</h1>
 
 <p align="center">
-  Técnico em Rede | Explorador de infra 🔧 | Linux na veia 🐧
+  Técnico em Rede | Explorador de infra | Linux
 </p>
 
 ## Sobre Mim
@@ -13,8 +13,8 @@ Atualmente, curso Eng. de Software e redirecionei meu foco para redes, infraestr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucas-70a440276)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dilucas_7/)
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-LCs&show_icons=true&theme=tokyonight)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-LCs&langs_count=10&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-LCs&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
