@@ -4,7 +4,7 @@
   Técnico em Rede | Explorador de infra 🔧 | Linux na veia 🐧
 </p>
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 Comecei na programação alterando os arquivos dos jogos que eu gostava e criando mods. Isso despertou meu interesse por tecnologia e, em seguida, comecei a estudar lógica de programação, HTML, CSS, e um tempo depois javascript.
 
@@ -23,7 +23,6 @@ Atualmente, curso Eng. de Software e redirecionei meu foco para redes, infraestr
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
