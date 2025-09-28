@@ -11,7 +11,6 @@ Comecei na programação alterando os arquivos dos jogos que eu gostava e criand
 Atualmente, curso Eng. de Software e redirecionei meu foco para redes, infraestrutura, desenvolvimento de software e segurança de sistemas operacionais. Tenho explorado desde a configuração de ambientes Linux até práticas de cibersegurança, aprofundando meus conhecimentos em ferramentas como Ubuntu e Java, além de estudar conceitos de DevOps, virtualização e monitoramento de redes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucas-70a440276)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dilucas_7/)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-LCs&langs_count=10&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-LCs&show_icons=true&theme=radical)
