@@ -12,6 +12,11 @@ Atualmente, curso Eng. de Software e redirecionei meu foco para redes, infraestr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucass)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-LCs&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre-LCs&show_icons=true&theme=radical" />
+</p>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
