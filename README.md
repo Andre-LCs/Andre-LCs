@@ -8,7 +8,8 @@
 
 Comecei na programação alterando os arquivos dos jogos que eu gostava e criando mods. Isso despertou meu interesse por tecnologia e, em seguida, comecei a estudar lógica de programação, HTML, CSS, e um tempo depois javascript.
 
-Atualmente, redirecionei meu foco para infraestrutura, desenvolvimento de software e segurança de redes. Tenho explorado desde a configuração de ambientes Linux até práticas de cibersegurança, aprofundando meus conhecimentos em ferramentas como Ubuntu e Java, além de estudar conceitos de DevOps, virtualização e monitoramento de redes.
+Atualmente, redirecionei meu foco para infraestrutura, gerenciamento de banco dados, incluindo MongoDB e MySQL e noções de cloud computing. 
+Tenho explorado desde a configuração de ambientes Linux, desenvolvimento de software e até práticas de segurança de redes, aprofundando meus conhecimentos em ferramentas como Ubuntu, Java e SSH, além de estudar conceitos de DevOps, virtualização e monitoramento.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucass)
 
