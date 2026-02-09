@@ -13,6 +13,11 @@ Tenho explorado desde a configuração de ambientes Linux, desenvolvimento de so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucass)
 
+##
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Andre-LCs&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak stats" />
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
