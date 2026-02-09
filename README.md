@@ -13,8 +13,6 @@ Tenho explorado desde a configuração de ambientes Linux, desenvolvimento de so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucass)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-LCs&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/Andre-LCs)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
