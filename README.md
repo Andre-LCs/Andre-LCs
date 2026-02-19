@@ -16,7 +16,6 @@
 ## 👨‍💻 Sobre mim
 
 Comecei na tecnologia modificando arquivos de jogos e criando mods, o que despertou meu interesse por programação e lógica computacional.  
-A partir disso, passei a estudar **HTML, CSS e JavaScript**, construindo uma base sólida em desenvolvimento.
 
 Atualmente, direcionei meu foco para **infraestrutura**, **ambientes Linux** e **suporte técnico**, com atuação em:
 - fundamentos de **redes e segurança**
