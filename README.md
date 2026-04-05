@@ -5,12 +5,6 @@
   Técnico em Redes | Explorador de Infraestrutura
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/andré-lucass">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
