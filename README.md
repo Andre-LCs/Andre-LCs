@@ -5,20 +5,6 @@
   Técnico em Redes | Explorador de Infraestrutura
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-Comecei na tecnologia modificando arquivos de jogos e criando mods, o que despertou meu interesse por programação e lógica computacional.  
-
-Atualmente, direcionei meu foco para **infraestrutura**, **ambientes Linux** e **suporte técnico**, com atuação em:
-- fundamentos de **redes e segurança**
-- acesso e administração via **SSH**
-- gerenciamento de bancos de dados (**MySQL e MongoDB**)
-- estudos contínuos em **DevOps, virtualização e monitoramento**
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
