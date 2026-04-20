@@ -1,4 +1,4 @@
-<h1 align="center">André Lucas 👋</h1>
+<h1 align="left">André Lucas 👋</h1>
 
 ## 📊 GitHub Activity
 
