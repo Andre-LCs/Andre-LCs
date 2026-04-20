@@ -1,10 +1,5 @@
 <h1 align="center">André Lucas 👋</h1>
 
-<p align="center">
-  <strong>Suporte N1/N2 • Infraestrutura on-premises • Linux</strong><br/>
-  Técnico em Redes | Explorador de Infraestrutura
-</p>
-
 ## 📊 GitHub Activity
 
 <div align="center">
